@@ -1,0 +1,15 @@
+.sb{
+    max-width: 25rem;
+    margin: 0 auto;
+    padding: 0.5rem
+}
+.sb .btn svg{
+    transition: all 0.5s ease;
+}
+.sb .btn svg:hover{
+    color: red;
+}
+
+.form-control:focus{
+    box-shadow: none !important;
+}
