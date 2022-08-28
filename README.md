@@ -1,2 +1,2 @@
-Live Site Link
-weather-snk.web.app
+Live Site Link : 
+[https://weather-snk.web.app]
