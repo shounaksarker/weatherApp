@@ -1,2 +1,2 @@
 Live Site Link : 
-[https://weather-snk.web.app]
+[https://web-app-snk.netlify.app/]
